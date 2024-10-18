@@ -120,7 +120,7 @@
     "react-dom": "18.2.0",
     "react-hook-form": "^7.52.2",
     "react-i18next": "^15.0.1",
-    "react-native": "0.74.5",
+    "react-native": "0.75.3",
     "react-native-actions-sheet": "^0.9.7",
     "react-native-blob-util": "^0.19.11",
     "react-native-compressor": "^1.8.25",
