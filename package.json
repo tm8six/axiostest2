@@ -47,7 +47,7 @@
     "@react-native-community/slider": "4.5.2",
     "@react-native-cookies/cookies": "^6.2.1",
     "@react-native-firebase/analytics": "20.4.0",
-    "@react-native-firebase/app": "20.4.0",
+    "@react-native-firebase/app": "21.7.2",
     "@react-navigation/bottom-tabs": "^6.6.1",
     "@react-navigation/drawer": "^6.7.2",
     "@react-navigation/native": "^6.1.18",
